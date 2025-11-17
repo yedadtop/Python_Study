@@ -1,2 +1,0 @@
-print("ahha")
-print("aaa")
